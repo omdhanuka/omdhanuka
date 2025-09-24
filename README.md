@@ -47,34 +47,19 @@
 
 ## 📌 Pinned Projects  
 
-## 📌 Pinned Projects  
-
 <p align="center">
-  <a href="https://github.com/OmDhanuka/seva">
+  <a href="https://github.com/omdhanuka/seva">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmDhanuka&repo=seva&theme=radical" />
   </a>
-  <a href="https://github.com/OmDhanuka/suraksha-ai">
+  <a href="https://github.com/omdhanuka/suraksha-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmDhanuka&repo=suraksha-ai&theme=radical" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/OmDhanuka/online-billing-system">
+  <a href="https://github.com/omdhanuka/online-billing-system">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmDhanuka&repo=online-billing-system&theme=radical" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmDhanuka&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=OmDhanuka&theme=radical" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmDhanuka&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
