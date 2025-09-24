@@ -19,3 +19,22 @@
   "Backend": ["Node.js", "Express", "MongoDB", "JWT", "Multer"],
   "Tools": ["Git", "Docker", "Firebase", "Twilio", "Nodemailer"]
 }
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omdhanuka&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=omdhanuka&theme=radical" alt="GitHub Streak" height="160"/> </p>
+🌍 Connect With Me
+<p align="center"> <a href="https://linkedin.com/in/your-linkedin" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/omdhanuka" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://your-portfolio-link" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white"/> </a> </p>
+🕶 Fun Quote
+
+"Code is like a lockpick — it opens endless doors."
+
+
+---
+
+✨ Features included:
+- **Typing animation banner**  
+- **JSON-style Tech Stack** (looks hacker-style)  
+- **Blue-themed badges & stats**  
+- **GitHub stats + streaks**  
+- Space for **your email + portfolio links**  
+
+👉 Do you want me to also add a **“Latest Projects” showcase section** (with clickable cards for Se
