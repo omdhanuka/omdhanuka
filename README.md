@@ -1,5 +1,5 @@
 <!-- Typing Animation Banner -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=880&lines=Hi%2C+I'm+Om+Dhanuka+%F0%9F%91%8B;Full+Stack+Developer+⚡;MERN+%7C+Vite+%7C+Tailwind+%7C+AI+%26+ML;Hacking-themed+Designs+%F0%9F%94%A5;Open+to+Collaboration+%F0%9F%8C%90)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=880&lines=Hi%2C+I'm+Om+Dhanuka+%F0%9F%91%8B;Full+Stack+Developer+⚡;MERN+%7C+Vite+%7C+Tailwind+%7C+AI+%26+ML+%F0%9F%94%A5;Open+to+Collaboration+%F0%9F%8C%90)](https://git.io/typing-svg)
 
 ---
 
