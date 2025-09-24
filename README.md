@@ -47,6 +47,8 @@
 
 ## 📌 Pinned Projects  
 
+## 📌 Pinned Projects  
+
 <p align="center">
   <a href="https://github.com/OmDhanuka/seva">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=OmDhanuka&repo=seva&theme=radical" />
